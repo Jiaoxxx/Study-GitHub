@@ -1,7 +1,0 @@
-#include <stdio.h>
-int main()
-{
-   printf("hello world!");
-   printf("第一次编辑");
-   return 0;
-}
